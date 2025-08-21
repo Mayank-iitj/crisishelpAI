@@ -1,0 +1,30 @@
+{
+  "name": "crisis-helpline",
+  "version": "1.0.0",
+  "description": "A mental health crisis support platform providing 24/7 AI-powered support, community resources, and emergency helplines.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s .",
+    "build": "echo 'No build process needed for static site'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "mental-health",
+    "crisis-support",
+    "helpline",
+    "ai-support",
+    "community",
+    "emergency"
+  ],
+  "author": "Mayank Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/crisis-helpline.git"
+  },
+  "homepage": "https://crisishelpline.netlify.app/"
+}
+
